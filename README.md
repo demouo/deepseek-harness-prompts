@@ -1,5 +1,7 @@
 # DeepSeek Harness Prompts
 
+English | [中文](README.zh-CN.md)
+
 A curated collection of system prompts for [DeepSeek Harness (DSH)](https://github.com/deepseek-ai), the agentic runtime for DeepSeek models. Each file is a complete, self-contained prompt bundle — system prompt, tool definitions, and runtime context — ready to be used as the harness instructions for a coding-agent session.
 
 ## Modes
